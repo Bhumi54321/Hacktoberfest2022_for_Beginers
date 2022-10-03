@@ -37,6 +37,7 @@
 | Tharindu Sooriyaarchchi | <a href="https://github.com/TharinduDilshan>Tharindu Sooriyaarchchi</a> | <a href="tdilshan2010@gmail.com">E-Mail</a> |
 | Samriddh Prasad | <a href="https://github.com/Samriddh2703">Samriddh Prasad</a> | <a href="samriddh2703@gmail.com">E-Mail</a> |
 | Edgar Gonzalez | <a href="https://github.com/Edgarzerocool">Edgar Gonzalez</a> | <a href="edgar_gonzalezja@hotmail.com">E-Mail</a> |
+  | Bhumi Singh  | <a href="https://github.com/Bhumi54321">Bhumi Singh</a> | <a href="mailto:bhumisingh256@gmail.com">E-Mail</a> |
 
 
 
